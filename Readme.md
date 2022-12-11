@@ -8,3 +8,5 @@ The proposed solution is that we use Node and Express JS to handle the backend o
 - Sending Emails to the selected candidates along with their credentials to access the portal.
 - Dispatching new time real notifications.
 - Receiving feedback from the users.
+
+http://innerve-hacks.herokuapp.com/
