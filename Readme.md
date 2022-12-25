@@ -9,4 +9,4 @@ The proposed solution is that we use Node and Express JS to handle the backend o
 - Dispatching new time real notifications.
 - Receiving feedback from the users.
 
-http://innerve-hacks.herokuapp.com/
+http://innerve-hacks.herokuapp.com
